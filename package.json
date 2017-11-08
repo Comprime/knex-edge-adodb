@@ -1,0 +1,20 @@
+{
+  "name": "knex-edge-adodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Victor Dahmen",
+    "email": "victor.dahmen@yahoo.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Comprime/knex-edge-adodb.git"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "edge-adodb": "^1.0.1",
+    "knex": "^0.14.0",
+    "lodash": "^4.17.4"
+  }
+}
